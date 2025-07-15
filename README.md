@@ -19,8 +19,7 @@ This app lets you write GitHub Flavored Markdown in a textarea and see the rende
 
 ## Demo
 
-Live demo: [https://your-live-app-url.com](https://your-live-app-url.com)  
-*(Replace with your deployed URL)*
+Live demo: Soon
 
 ---
 
