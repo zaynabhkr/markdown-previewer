@@ -8,7 +8,7 @@ This app lets you write GitHub Flavored Markdown in a textarea and see the rende
 
 ## Demo
 
-Live demo: [Soon](https://markdown-previewer-ten-hazel.vercel.app/)
+Live demo: [Link of the app](https://markdown-previewer-ten-hazel.vercel.app/)
 
 ---
 
