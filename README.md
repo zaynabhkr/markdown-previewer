@@ -1,6 +1,6 @@
 # Markdown Previewer
 
-A React-based Markdown Previewer built to fulfill the freeCodeCamp Front End Libraries Certification project requirements.
+A React-based Markdown Previewer built to fulfill Front End Libraries Certification project requirements.
 
 This app lets you write GitHub Flavored Markdown in a textarea and see the rendered HTML preview update live as you type.
 
